@@ -35,10 +35,14 @@ The exercise is really easy; the idea here is to focus on your code instead of t
   - Unit tests
   - Integration tests
   - Widget tests (if it makes sense and you have time)
-- Make the app work offline, including some local cache
 - Explore Animations || Page Transitions
   - Be creative here; we don't expect anyone to be a new "Leonardo da Vinci" when creating the UI. We only want to see that you know how the Flutter framework handles these kinds of things.
 
+Bonus points:
+
+- Include pagination (load more button, infinite scroll, classic pagination...)
+- Include an offline behavior
+  
 ## How you will be ranked
 
 Changes are that you'll be initiating a new project when starting at this position. So we want to be sure you know how to create code that scales, it's maintainable, decoupled, and avoids [software rot](https://en.wikipedia.org/wiki/Software_rot).
